@@ -354,7 +354,7 @@
   
   
   .pri {
-    padding: 10px 20px;
+    padding: 4px 20px;
     border: 0;
     font-size: 1em;
     -webkit-animation:   pri 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
